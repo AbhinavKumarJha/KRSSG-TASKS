@@ -1,4 +1,4 @@
-# KRSSG-TASKS
+# KRSSG-TASKS ON Artificial Intelligence
 The file fsmakj.cpp is the code for implementing finite state machine in cpp.
 
 The file prrtstar.cpp is the rrt star for implementing rrtstar algorithm for finding shortest path in an image.
